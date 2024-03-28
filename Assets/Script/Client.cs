@@ -2,11 +2,8 @@ using DG.Tweening;
 using PhongNH.LibTool;
 using System;
 using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using UnityEngine.XR;
-using static UnityEditor.PlayerSettings;
 using Random = UnityEngine.Random;
 
 public class Client : MonoBehaviour
